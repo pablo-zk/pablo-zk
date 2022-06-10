@@ -57,8 +57,8 @@
 
 ## Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=pablo-zk&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-zk&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pablo-zk&show_icons=true&theme=blue-green" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-zk&theme=blue-green" />
 
 </p>
 
