@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-> 🔭 I’m currently completing a vocational internship.
+> 💻 I currently work as a .NET developer without neglecting the frontend properties..
 
 **Studies:**
-- Medium degree in **Microcomputer Systems and Networks**.
 - Higher degree in **Multiplatform Applications Development**.
 
 <h3 align="center">Languages & Frameworks</h3>
